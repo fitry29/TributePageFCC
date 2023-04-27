@@ -1,0 +1,48 @@
+body{
+    font-family: 'Ubuntu', serif;
+    text-align: center;
+    margin: 0;
+    
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+#div-1{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+#h2-1{
+    font-style: italic;
+    font-family: 'Ubuntu', serif;
+    font-size: 25px;
+}
+#img-div{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    display: block;
+    
+}
+#image{
+    height: auto;
+    max-width: 100%;
+}
+#d2{
+    background-image: url('https://wikibengdotcom.files.wordpress.com/2017/08/dismantled-msia.jpg');
+    background-size: cover;
+   
+    padding: 50px 32%;
+    
+}
+#tribute-info{
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 0.1px solid lightgrey ;
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+.list{
+    line-height: 1.6;
+}
