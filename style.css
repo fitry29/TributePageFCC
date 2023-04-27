@@ -46,3 +46,9 @@ img{
 .list{
     line-height: 1.6;
 }
+
+@media only screen and (max-width: 768px) {
+    #d2{
+        padding: 10px 10px;
+    }
+}
